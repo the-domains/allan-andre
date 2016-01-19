@@ -1,6 +1,6 @@
 name: Allan André
 favicon: null
-layout_spectrum: 0.99925
+layout_spectrum: 0.25524
 typography_spectrum: 0.61153
 title: the art of Allan André
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#131416'
-    - '#3d3f3e'
-    - '#bf2621'
-    - '#a09ea3'
-    - '#cdd6cf'
+    - '#dedbc9'
+    - '#1e1e1c'
+    - '#6b6a66'
+    - '#b8b6aa'
+    - '#8f8e89'
   brandStrength: 0.25981822656467557
-  lightness: 0.5598679750692099
+  lightness: 1
   saturation: 0.3984106339048594
-  rhythmicContrast: 0.24688874394632876
+  rhythmicContrast: 0
 purpose: []
