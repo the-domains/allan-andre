@@ -1,7 +1,7 @@
 name: Allan André
 favicon: null
-layout_spectrum: 0.00909367180429399
-typography_spectrum: 0.09371549030765891
+layout_spectrum: 0.99925
+typography_spectrum: 0.61153
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#131416'
+    - '#3d3f3e'
+    - '#bf2621'
+    - '#a09ea3'
+    - '#cdd6cf'
   brandStrength: 0.25981822656467557
   lightness: 0.5598679750692099
   saturation: 0.3984106339048594
