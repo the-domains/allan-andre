@@ -1,6 +1,6 @@
 name: Allan André
 favicon: null
-layout_spectrum: 0.00841
+layout_spectrum: 1
 typography_spectrum: 0.95086
 title: the art of Allan André
 cta:
@@ -23,7 +23,7 @@ color:
     - '#c8c4b8'
     - '#878277'
   brandStrength: 1
-  lightness: 1
+  lightness: 0
   saturation: 0
   rhythmicContrast: 0
 purpose: []
